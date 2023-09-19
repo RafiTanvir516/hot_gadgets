@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+}
+.Image{
+    max-width: 100%;
+    height: auto;
+}
+.carousel .carousel-indicators button {
+    width: 40px;
+    height: 10px;
+    border: 0;
+   border-radius: 20px;
+   background-color: orange;
+ }
+ .card{
+    box-shadow: rgba(160, 166, 172, 0.2) 0px 8px 24px;
+ }
+ .card:hover{
+    background-color: orange !important;
+ }
+span{
+    height: 5px;
+    width: 140px;
+    background-color: yellow;
+    display: block;
+    margin: 0 auto;
+}
